@@ -1,0 +1,7 @@
+Creator = "Tutu"
+
+PI = 3.14159
+
+def Area(radius):
+    PI = 3.142857
+    return PI * radius ** 2 
