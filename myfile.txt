@@ -11,3 +11,4 @@ For multiplication table of 2!
 2 * 10 = 20 
 2 * 11 = 22 
 2 * 12 = 24 
+2 * 12 = 24

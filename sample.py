@@ -13,3 +13,10 @@ def per_of_tri(a,b,c):
     
     return perimeter
      
+    
+    
+    def multiply(a,b,c):
+        product = a*b*c
+        
+        return product
+     
